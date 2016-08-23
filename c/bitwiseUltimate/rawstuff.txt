@@ -1,0 +1,339 @@
+lf AN lq -> ls
+iu RS 1 -> jn
+bo OR bu -> bv
+gj RS 1 -> hc
+et RS 2 -> eu
+bv AN bx -> by
+is OR it -> iu
+b OR n -> o
+gf OR ge -> gg
+NOT kt -> ku
+ea AN eb -> ed
+kl OR kr -> ks
+hi AN hk -> hl
+au AN av -> ax
+lf RS 2 -> lg
+dd RS 3 -> df
+eu AN fa -> fc
+df AN dg -> di
+ip LS 15 -> it
+NOT el -> em
+et OR fe -> ff
+fj LS 15 -> fn
+t OR s -> u
+ly OR lz -> ma
+ko AN kq -> kr
+NOT fx -> fy
+et RS 1 -> fm
+eu OR fa -> fb
+dd RS 2 -> de
+NOT go -> gp
+kb AN kd -> ke
+hg OR hh -> hi
+jm LS 1 -> kg
+NOT cn -> co
+jp RS 2 -> jq
+jp RS 5 -> js
+1 AN io -> ip
+eo LS 15 -> es
+1 AN jj -> jk
+g AN i -> j
+ci RS 3 -> ck
+gn AN gp -> gq
+fs AN fu -> fv
+lj AN ll -> lm
+jk LS 15 -> jo
+iu RS 3 -> iw
+NOT ii -> ij
+1 AN cc -> cd
+bn RS 3 -> bp
+NOT gw -> gx
+NOT ft -> fu
+jn OR jo -> jp
+iv OR jb -> jc
+hv OR hu -> hw
+19138 -> b
+gj RS 5 -> gm
+hq AN hs -> ht
+dy RS 1 -> er
+ao OR an -> ap
+ld OR le -> lf
+bk LS 1 -> ce
+bz AN cb -> cc
+bi LS 15 -> bm
+il AN in -> io
+af AN ah -> ai
+as RS 1 -> bl
+lf RS 3 -> lh
+er OR es -> et
+NOT ax -> ay
+ci RS 1 -> db
+et AN fe -> fg
+lg OR lm -> ln
+k AN m -> n
+hz RS 2 -> ia
+kh LS 1 -> lb
+NOT ey -> ez
+NOT di -> dj
+dz OR ef -> eg
+lx -> a
+NOT iz -> ja
+gz LS 15 -> hd
+ce OR cd -> cf
+fq AN fr -> ft
+at AN az -> bb
+ha OR gz -> hb
+fp AN fv -> fx
+NOT gb -> gc
+ia AN ig -> ii
+gl OR gm -> gn
+0 -> c
+NOT ca -> cb
+bn RS 1 -> cg
+c LS 1 -> t
+iw OR ix -> iy
+kg OR kf -> kh
+dy OR ej -> ek
+km AN kn -> kp
+NOT fc -> fd
+hz RS 3 -> ib
+NOT dq -> dr
+NOT fg -> fh
+dy RS 2 -> dz
+kk RS 2 -> kl
+1 AN fi -> fj
+NOT hr -> hs
+jp RS 1 -> ki
+bl OR bm -> bn
+1 AN gy -> gz
+gr AN gt -> gu
+db OR dc -> dd
+de OR dk -> dl
+as RS 5 -> av
+lf RS 5 -> li
+hm AN ho -> hp
+cg OR ch -> ci
+gj AN gu -> gw
+ge LS 15 -> gi
+e OR f -> g
+fp OR fv -> fw
+fb AN fd -> fe
+cd LS 15 -> ch
+b RS 1 -> v
+at OR az -> ba
+bn RS 2 -> bo
+lh AN li -> lk
+dl AN dn -> do
+eg AN ei -> ej
+ex AN ez -> fa
+NOT kp -> kq
+NOT lk -> ll
+x AN ai -> ak
+jp OR ka -> kb
+NOT jd -> je
+iy AN ja -> jb
+jp RS 3 -> jr
+fo OR fz -> ga
+df OR dg -> dh
+gj RS 2 -> gk
+gj OR gu -> gv
+NOT jh -> ji
+ap LS 1 -> bj
+NOT ls -> lt
+ir LS 1 -> jl
+bn AN by -> ca
+lv LS 15 -> lz
+ba AN bc -> bd
+cy LS 15 -> dc
+ln AN lp -> lq
+x RS 1 -> aq
+gk OR gq -> gr
+NOT kx -> ky
+jg AN ji -> jj
+bn OR by -> bz
+fl LS 1 -> gf
+bp OR bq -> br
+he OR hp -> hq
+et RS 5 -> ew
+iu RS 2 -> iv
+gl AN gm -> go
+x OR ai -> aj
+hc OR hd -> he
+lg AN lm -> lo
+lh OR li -> lj
+da LS 1 -> du
+fo RS 2 -> fp
+gk AN gq -> gs
+bj OR bi -> bk
+lf OR lq -> lr
+cj AN cp -> cr
+hu LS 15 -> hy
+1 AN bh -> bi
+fo RS 3 -> fq
+NOT lo -> lp
+hw LS 1 -> iq
+dd RS 1 -> dw
+dt LS 15 -> dx
+dy AN ej -> el
+an LS 15 -> ar
+aq OR ar -> as
+1 AN r -> s
+fw AN fy -> fz
+NOT im -> in
+et RS 3 -> ev
+1 AN ds -> dt
+ec AN ee -> ef
+NOT ak -> al
+jl OR jk -> jm
+1 AN en -> eo
+lb OR la -> lc
+iu AN jf -> jh
+iu RS 5 -> ix
+bo AN bu -> bw
+cz OR cy -> da
+iv AN jb -> jd
+iw AN ix -> iz
+lf RS 1 -> ly
+iu OR jf -> jg
+NOT dm -> dn
+lw OR lv -> lx
+gg LS 1 -> ha
+lr AN lt -> lu
+fm OR fn -> fo
+he RS 3 -> hg
+aj AN al -> am
+1 AN kz -> la
+dy RS 5 -> eb
+jc AN je -> jf
+cm AN co -> cp
+gv AN gx -> gy
+ev OR ew -> ex
+jp AN ka -> kc
+fk OR fj -> fl
+dy RS 3 -> ea
+NOT bs -> bt
+NOT ag -> ah
+dz AN ef -> eh
+cf LS 1 -> cz
+NOT cv -> cw
+1 AN cx -> cy
+de AN dk -> dm
+ck AN cl -> cn
+x RS 5 -> aa
+dv LS 1 -> ep
+he RS 2 -> hf
+NOT bw -> bx
+ck OR cl -> cm
+bp AN bq -> bs
+as OR bd -> be
+he AN hp -> hr
+ev AN ew -> ey
+1 AN lu -> lv
+kk RS 3 -> km
+b AN n -> p
+NOT kc -> kd
+lc LS 1 -> lw
+km OR kn -> ko
+id AN if -> ig
+ih AN ij -> ik
+jr AN js -> ju
+ci RS 5 -> cl
+hz RS 1 -> is
+1 AN ke -> kf
+NOT gs -> gt
+aw AN ay -> az
+x RS 2 -> y
+ab AN ad -> ae
+ff AN fh -> fi
+ci AN ct -> cv
+eq LS 1 -> fk
+gj RS 3 -> gl
+u LS 1 -> ao
+NOT bb -> bc
+NOT hj -> hk
+kw AN ky -> kz
+as AN bd -> bf
+dw OR dx -> dy
+br AN bt -> bu
+kk AN kv -> kx
+ep OR eo -> eq
+he RS 1 -> hx
+ki OR kj -> kk
+NOT ju -> jv
+ek AN em -> en
+kk RS 5 -> kn
+NOT eh -> ei
+hx OR hy -> hz
+ea OR eb -> ec
+s LS 15 -> w
+fo RS 1 -> gh
+kk OR kv -> kw
+bn RS 5 -> bq
+NOT ed -> ee
+1 AN ht -> hu
+cu AN cw -> cx
+b RS 5 -> f
+kl AN kr -> kt
+iq OR ip -> ir
+ci RS 2 -> cj
+cj OR cp -> cq
+o AN q -> r
+dd RS 5 -> dg
+b RS 2 -> d
+ks AN ku -> kv
+b RS 3 -> e
+d OR j -> k
+NOT p -> q
+NOT cr -> cs
+du OR dt -> dv
+kf LS 15 -> kj
+NOT ac -> ad
+fo RS 5 -> fr
+hz OR ik -> il
+jx AN jz -> ka
+gh OR gi -> gj
+kk RS 1 -> ld
+hz RS 5 -> ic
+as RS 2 -> at
+NOT jy -> jz
+1 AN am -> an
+ci OR ct -> cu
+hg AN hh -> hj
+jq OR jw -> jx
+v OR w -> x
+la LS 15 -> le
+dh AN dj -> dk
+dp AN dr -> ds
+jq AN jw -> jy
+au OR av -> aw
+NOT bf -> bg
+z OR aa -> ab
+ga AN gc -> gd
+hz AN ik -> im
+jt AN jv -> jw
+z AN aa -> ac
+jr OR js -> jt
+hb LS 1 -> hv
+hf OR hl -> hm
+ib OR ic -> id
+fq OR fr -> fs
+cq AN cs -> ct
+ia OR ig -> ih
+dd OR do -> dp
+d AN j -> l
+ib AN ic -> ie
+as RS 3 -> au
+be AN bg -> bh
+dd AN do -> dq
+NOT l -> m
+1 AN gd -> ge
+y AN ae -> ag
+fo AN fz -> gb
+NOT ie -> if
+e AN f -> h
+x RS 3 -> z
+y OR ae -> af
+hf AN hl -> hn
+NOT h -> i
+NOT hn -> ho
+he RS 5 -> hh

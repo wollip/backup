@@ -1,0 +1,73 @@
+midterm 2 solution
+
+q4
+/*
+* Program to play a simple guessing game with the user.
+* Computer generates secret number between 1 and MAX_NUM.
+* User has MAX_ATTEMPTS attempts to guess the number.
+*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define MAX_NUM 100
+#define MAX_ATTEMPTS 5
+#define TRUE 1
+#define FALSE 0
+
+int getSecretNumber( int );
+int getGuess( int );
+int checkGuess( int, int );
+
+int main( void ) {
+	int secretNum;
+	int guess;
+	int attemptsRemaining = MAX_ATTEMPTS;
+	int gotIt = FALSE;
+	srand( (unsigned) time( NULL ));
+
+	while(attemptsRemaining >0){
+
+		attemptsREmaining--:
+	}	
+
+	if( gotIt )
+		 printf( "Congratulations!\n" );
+	else {
+		 printf( "Sorry, you have no guesses remaining...\n" );
+		 printf( "The secret number was %d\n", secretNum );
+	}
+	system( "pause" );
+ 	return 0;
+}
+
+/*
+* Returns: a pseudo-random integer between 1 and maxNum.
+*/
+int getSecretNumber( int maxNum ) {
+return rand() % maxNum + 1;
+}
+
+
+/*
+* Tells user number of guesses remaining and prompts for another guess.
+* Param: attemptsRemaining – number of guesses remaining
+* Returns: the guess entered by the user
+*/
+int getGuess( int attemptsRemaining ) {
+
+
+}
+
+
+
+/*
+* Checks the user's guess against the secret number. Prints message to
+* indicate if guess is too low, too high, or user guessed correctly.
+* Param: guess - user's guess
+* Param: secretNum - the secret number
+* Returns: TRUE if user guessed correctly, FALSE otherwise
+*/
+int checkGuess( int guess, int secretNum ) {
+
+}

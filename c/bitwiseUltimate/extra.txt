@@ -1,0 +1,30 @@
+	//search for instructions in the format "number -> line"
+	while(fscanf(fp, "%d -> %s", &tempint, temp.result) == 0){
+		printf("scanning\n");
+		sprintf(temp.instructions, "%d", tempint);
+		complete[index] = temp;
+		printf("copy successful\n");
+		index++;
+		complete = (string*) (realloc(complete, (index+1)* sizeof(string)));
+		printf("array extended\n");
+	}
+	rewind(fp);
+	// search for instructions in the format "NOT line -> line"
+	while(fscanf(fp, "%s %s -> %s", temp.instructions, temp.line2, temp.result) != 0){
+		complete[index] = temp;
+		index++;
+		complete = (string*)(realloc((index+1)* sizeof(string)));
+	}
+	rewind(fp);
+	// search for instruction in the formation "line1 instruction line2 -> line"
+	while(fscanf(fp, "%s %s %s -> %s", temp.line1, temp.instructions, temp.line2, temp.result) != 0){
+		complete[index] = temp;
+		index++;
+		complete = (string*)(realloc((index+1)* sizeof(string)));
+	}
+	printf("search successful\n");
+	strcpy(complete[index].instructions, "F"); //subetai becomes FFFFF
+
+	for(int i = 0; strcmp(complete[i].instructions,"F"); i++){
+		printf("%s %s %s -> %s", complete[i].line1, complete[i].instructions, complete[i].line2, complete[i].result);
+	}

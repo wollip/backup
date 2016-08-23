@@ -1,0 +1,155 @@
+1a
+num1 > 9 && num2 < 12
+
+1b
+4
+
+1c
+ac
+
+1d
+sum = 10, count = 5
+
+2a
+35/2 = 1
+17/2 = 1
+8/2 = 0
+4/2 = 0
+2/2 = 0
+1
+100011
+
+2b
+a = 10 f =15
+10*16^1+15*16^0 = 175
+
+3a
+retVal will store the sum of all the integers from a to b inclusive
+
+3b
+it prints the largest number between a,b and c
+
+4a
+on paper
+
+5a
+#include <stdio.h>
+
+int main (void) {
+	int age;
+
+	printf("please enter age\n");
+
+	scanf("%d", &age);
+
+	while(age<0 || age > 125){
+		printf("age not valid try again\n");
+		scanf("%d", &age);
+	}
+
+	if (age<18){
+		printf("ticket is 13.45$\n");
+	} else if(age <= 64){
+		printf("ticket is $21.95\n");
+	} else {
+		printf("ticket is $18.95\n");
+	}
+
+	system( "PAUSE");
+	return 0;
+}
+
+5b
+#include <stdio.h>
+#include <math.h>
+
+int main (void) {
+	double xvalue, sum, currentterm;
+	int termnumber = 0;
+
+	printf("Please enter value of x (0 < x < 2):");
+	scanf("%lf", &xvalue);
+
+	do{
+		termnumber++;
+		currentterm = pow(-1, termnumber+1)*pow(xvalue-1, termnumber)/ternumber;
+		
+		sum = sum + currentterm;
+	}while(fabs(currentterm)>0.000001);
+
+	printf("Approximation to ln(%.6lf) is %.6lf\n", termnumber, sum);
+	printf("- computed using %d", termnumber);
+
+	system("PAUSE");
+	return 0;
+}
+
+5c
+#include <stdio.h>
+
+int main(void){
+	int max, min, num1, num2;
+
+	printf("Please enter a sequence of pairs of positive integers.\n");
+	printf("Terminate by entering at least one non-positive value\n in a pair.\n")
+
+	scanf("%d %d", &num1 , &num2);
+	max = num1;
+	min = num2;
+
+	while(num1>0 && num2>0){
+		if (max<num1){
+			max = num1;
+		}
+		if (min > num2){
+			min = num2;
+		}
+
+		scanf("%d %d" &num1, &num2);
+	}
+	printf("Max of first numbers: %d\n", max);
+	printf("Min of second numbers: %d\n", min);
+
+	return 0;
+}
+
+5d
+#include <stdio.h>
+
+int main(void){
+	int currentnumber, rownumber = 0, columnnumber;
+	double sum, average;
+	int boolean = 1;
+	FILE* filepointer;
+
+	filepointer = fopen("filename.extension", "r");
+	if (filepointer == NULL){
+		printf("file did not open\n");
+		return 1;
+	}else {
+		printf("file open successfully\n");
+	}
+
+	while(1){
+		columnnumber = 0;
+		while (columnnumber < 100){
+			scanint = fscanf(filepointer, "%d", &currentnumber);
+			if (scanint = 0){
+				boolean = 0;
+				break;
+			}
+			sum = sum + currentnumber;
+		}
+		if (boolean == 0){
+			printf("no values were found\n");
+			break;
+		}
+		average = sum/100;
+		row++;
+		printf("current row = %d, average = %lf\n", row, average);
+		sum = 0;
+	}
+
+	system("PAUSE");
+	return 0;
+}
